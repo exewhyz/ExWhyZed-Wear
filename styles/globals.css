@@ -166,10 +166,10 @@ width: 100%;
 }
 .hero-banner-image{
   position: absolute;
-  top: 0%;
-  right:20%;
-  width: 450px;
-  height: 450px;
+  top: -3%;
+  right:-3%;
+  width: 400px;
+  height: 400px;
 }
 
 
@@ -246,10 +246,10 @@ text-align: end;
 }
 .footer-banner-image{
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -25%;
-  left: 25%;
+  top: -5%;
+  right: 15%;
+  width: 400px;
+  height: 400px;
 }
 .banner-desc .right{
   line-height: 1.4;
@@ -623,20 +623,20 @@ margin-top: 160px;
     height: 560px;
   }
   .hero-banner-image{
-    width: 77%;
-    height: 62%;
-    top: -2%;
-    right: -6%;
+    width: 52%;
+    right: -1%;
+    top: -1%;
+    height: 52%
   }
   .footer-banner-container{
     height: 560px;
     margin-top: 80px;
   }
   .footer-banner-image{
-    width: 77%;
-    left: 30%;
-    top: 6%;
-    height: 56%
+    width: 52%;
+    right: -1%;
+    top: -1%;
+    height: 52%
   }
   .banner-desc .left h3{
     font-weight: 900;
@@ -669,7 +669,7 @@ margin-top: 160px;
     font-size: 40px;
   }
   .hero-banner-container button{
-    margin-top: 90px;
+    margin-top: 60px;
     z-index: 10000;
   }
   .desc{
